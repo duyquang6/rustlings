@@ -6,7 +6,6 @@
 // we define a custom error type to make it possible for callers to decide
 // what to do next when our function returns an error.
 
-// I AM NOT DONE
 
 // Make these tests pass! Execute `rustlings hint errors6` for hints :)
 
